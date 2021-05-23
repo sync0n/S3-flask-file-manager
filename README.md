@@ -10,9 +10,9 @@ This python/flask app uses AWS SDK Python methods to upload / download / list fi
 
 Prerequisites:
 
- Python 3
- Pipenv
- AWS CLI Tool
+ Python 3,
+ Pipenv,
+ AWS CLI Tool,
  Git
  
  To run:
