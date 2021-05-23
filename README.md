@@ -18,7 +18,10 @@ Prerequisites:
  To run:
  
  aws configure
- pip install -r requirements.txtpython app.py
+ 
+ pip install -r requirements.txt
+ 
  python3 app.py
+ 
  
  Go to: http://localhost:5000/storage
