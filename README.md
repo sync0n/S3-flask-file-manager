@@ -23,5 +23,9 @@ Prerequisites:
  
  python3 app.py
  
+ Note:
+ 
+ In app.py change (line 10) the BUCKET = "add_bucket_name" to match your bucket name.  
+ 
  
  Go to: http://localhost:5000/storage
